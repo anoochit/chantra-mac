@@ -1,0 +1,1 @@
+The Colection of open source software for MAC OS X, delivered by [Chantra Project](http://code.google.com/p/chantra). The propose of this project is to bundle the useful open source software for MAC OS X.
